@@ -8,9 +8,10 @@
 - 🔭 主要使用: Python
 - 📫 E-mail: zzy@ucsd.edu
 - 🏠 Home Page: [Miracleyoo's Home Page](https://zhongyangzhang.owlstown.net/)
-<!-- - 🧑🏼‍💻 Blog: [Miracleyoo's Blog]() -->
 - 👯 About me: A PhD student in UCSD, working on AI/CV-related stuff. Graduating this July.
 - 🌐 Languages: English, Chinese, Japanese, French
+
+<!-- - 🧑🏼‍💻 Blog: [Miracleyoo's Blog]() -->
 
 ❄️ **Skills**
 
