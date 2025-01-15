@@ -22,7 +22,6 @@
 🎄 **Others**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracleyoo&layout=compact" />
-<img src="https://osu-sig.vercel.app/card?user=miracleyoo&mode=std&blur=6&animation=true&mini=true" />
 
 <!--
 **miracleyoo/miracleyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
